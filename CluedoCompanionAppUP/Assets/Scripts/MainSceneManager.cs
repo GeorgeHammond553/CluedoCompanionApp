@@ -4,9 +4,9 @@ using UnityEngine.SceneManagement;
 public class MainSceneManager : MonoBehaviour
 {
 
-    public void GameSetup() 
+    public void AppTutorial()
     {
-        SceneManager.LoadScene("Game Setup");
+        SceneManager.LoadScene("App Tutorial");
     }
 
     public void CluedoTutorial()
@@ -14,9 +14,24 @@ public class MainSceneManager : MonoBehaviour
         SceneManager.LoadScene("Cluedo Tutorial");
     }
 
-    public void AppTutorial()
+    public void GameSetup()
     {
-        SceneManager.LoadScene("App Tutorial");
+        SceneManager.LoadScene("Game Setup");
     }
+
+    public void MainScene()
+    {
+        SceneManager.LoadScene("Main Scene");
+    }
+
+    public void PlayerSheet()
+    {
+        SceneManager.LoadScene("PlayerSheet");
+    }
+
+    //public void *ENTERSCENE NAME HERE*()         *GEORGE - NO SPACES*
+    //{
+    //    SceneManager.LoadScene("*ENTERSCENE NAME HERE*");      *GEORGE - NO SPACES*
+    //}  *REMEMBER TO ADD NEW SCENES TO THE SCENE LIST IN SETTINGS OR IT WONT WORK* 
 
 }
