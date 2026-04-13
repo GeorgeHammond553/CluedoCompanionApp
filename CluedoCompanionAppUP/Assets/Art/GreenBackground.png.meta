@@ -1,15 +1,15 @@
 fileFormatVersion: 2
-guid: aeae2cb838de6c84e8c8ec4de2e8f5e1
+guid: 2517bcce872d95b4caee34879e111e16
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4087435987975395347
-    second: Cluedo Background_0
+      213: 1076308541471752510
+    second: Textured dark green felt surface_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -40,9 +40,9 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -55,9 +55,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 1
+  alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 8
+  textureType: 0
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cluedo Background_0
+      name: Textured dark green felt surface_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 318db69ff5d79b830800000000000000
-      internalID: 4087435987975395347
+      spriteID: e31842b7ae0dfee00800000000000000
+      internalID: 1076308541471752510
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Cluedo Background_0: 4087435987975395347
+      Textured dark green felt surface_0: 1076308541471752510
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
