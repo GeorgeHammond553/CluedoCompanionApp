@@ -202,16 +202,16 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1847314766}
-        m_TargetAssemblyTypeName: MainSceneManager, Assembly-CSharp
-        m_MethodName: GameSetup
-        m_Mode: 1
+      - m_Target: {fileID: 11500000, guid: b5fb65b51d9bdf8419d8c4102b779127, type: 3}
+        m_TargetAssemblyTypeName: UnityEngine.Object, UnityEngine
+        m_MethodName: set_name
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: PlayerSheet
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &194345180
@@ -607,7 +607,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1847314766}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: MainSceneManager, Assembly-CSharp
         m_MethodName: CluedoTutorial
         m_Mode: 1
@@ -937,7 +937,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1847314766}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: MainSceneManager, Assembly-CSharp
         m_MethodName: AppTutorial
         m_Mode: 1
@@ -1211,7 +1211,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1847314767}
-  - component: {fileID: 1847314766}
+  - component: {fileID: 1847314768}
   m_Layer: 0
   m_Name: SceneManager
   m_TagString: Untagged
@@ -1219,18 +1219,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1847314766
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1847314765}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0c66d77cf25539c45b93416c917825db, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!4 &1847314767
 Transform:
   m_ObjectHideFlags: 0
@@ -1246,6 +1234,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1847314768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1847314765}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cb96c5bd7dc7344fb27d31fd54869e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2069381284
 GameObject:
   m_ObjectHideFlags: 0
