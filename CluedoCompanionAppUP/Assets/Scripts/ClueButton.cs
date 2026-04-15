@@ -7,6 +7,7 @@ public class ClueButton : MonoBehaviour
     public Image background;
     public TextMeshProUGUI label;
     public Image strikeLine;
+    public TextMeshProUGUI questionMark;
     public Button button;
 
     private int state = 0;
@@ -31,12 +32,14 @@ public class ClueButton : MonoBehaviour
                 background.color = new Color32(72, 91, 13, 255);
                 label.color = new Color32(255, 255, 255, 255);
                 strikeLine.gameObject.SetActive(false);
+                questionMark.gameObject.SetActive(false);
                 break;
 
             case 1:
                 background.color = new Color32(158, 180, 77, 220);
                 label.color = new Color32(0, 0, 0, 255);
                 strikeLine.gameObject.SetActive(false);
+                questionMark.gameObject.SetActive(true);
                 break;
 
             case 2:
@@ -44,6 +47,7 @@ public class ClueButton : MonoBehaviour
                 label.color = new Color32(0, 0, 0, 255);
                 strikeLine.color = new Color32(0, 0, 0, 255);
                 strikeLine.gameObject.SetActive(true);
+                questionMark.gameObject.SetActive(false);
                 break;
         }
     }
