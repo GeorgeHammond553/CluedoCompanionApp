@@ -3,67 +3,67 @@ guid: f55facfd9f3861841b831ce9091f5a7d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6130743552821806404
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_0
+      213: 8866527561017723687
+    second: BackgroundText_0
   - first:
-      213: -4223948526488729533
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_1
+      213: -7366026928149204057
+    second: BackgroundText_1
   - first:
-      213: -6931808054039970308
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_2
+      213: 8576938097633332464
+    second: BackgroundText_2
   - first:
-      213: 1491764349171418559
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_3
+      213: -7362181018548437512
+    second: BackgroundText_3
   - first:
-      213: -9202729601714394388
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_4
+      213: 6280466203481986831
+    second: BackgroundText_4
   - first:
-      213: -5929444055602950763
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_5
+      213: -6378473974145320687
+    second: BackgroundText_5
   - first:
-      213: -20477368027422474
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_6
+      213: 5943247586582341820
+    second: BackgroundText_6
   - first:
-      213: -4115387389997287451
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_7
+      213: -9082174642093736582
+    second: BackgroundText_7
   - first:
-      213: -4288008857004662882
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_8
+      213: 67055184408234471
+    second: BackgroundText_8
   - first:
-      213: 5719234150073254827
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_9
+      213: 7926578301422106118
+    second: BackgroundText_9
   - first:
-      213: -4055848234934412944
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_10
+      213: -3302780964434489506
+    second: BackgroundText_10
   - first:
-      213: -6206990773119082607
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_11
+      213: -7422791978615497072
+    second: BackgroundText_11
   - first:
-      213: -6401872670895936014
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_12
+      213: 4706080930307462374
+    second: BackgroundText_12
   - first:
-      213: -4411831003844869562
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_13
+      213: -7281715864728837759
+    second: BackgroundText_13
   - first:
-      213: 3136805188467502380
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_14
+      213: 1857022944667144576
+    second: BackgroundText_14
   - first:
-      213: 9198653564912338678
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_15
+      213: -5011802830444765908
+    second: BackgroundText_15
   - first:
-      213: -2048431837908207315
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_16
+      213: -3005161150647248530
+    second: BackgroundText_16
   - first:
-      213: 2663849643263594364
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_17
+      213: 8296078257642887786
+    second: BackgroundText_17
   - first:
-      213: 7257523609407556917
-    second: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_18
+      213: 6071136631033705591
+    second: BackgroundText_18
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -94,9 +94,9 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -109,9 +109,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -154,7 +154,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_0
+      name: BackgroundText_0
       rect:
         serializedVersion: 2
         x: 250
@@ -169,14 +169,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 445c5fa77c6c41550800000000000000
-      internalID: 6130743552821806404
+      spriteID: 72b0ca107db3c0b70800000000000000
+      internalID: 8866527561017723687
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_1
+      name: BackgroundText_1
       rect:
         serializedVersion: 2
         x: 422
@@ -191,14 +191,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 348ca11d1358165c0800000000000000
-      internalID: -4223948526488729533
+      spriteID: 7a374b5298d96c990800000000000000
+      internalID: -7366026928149204057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_2
+      name: BackgroundText_2
       rect:
         serializedVersion: 2
         x: 508
@@ -213,14 +213,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cfd71c71d454dcf90800000000000000
-      internalID: -6931808054039970308
+      spriteID: 0fc03f9d1c7670770800000000000000
+      internalID: 8576938097633332464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_3
+      name: BackgroundText_3
       rect:
         serializedVersion: 2
         x: 81
@@ -235,14 +235,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb544f895cfc3b410800000000000000
-      internalID: 1491764349171418559
+      spriteID: 8fdfb41ce5744d990800000000000000
+      internalID: -7362181018548437512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_4
+      name: BackgroundText_4
       rect:
         serializedVersion: 2
         x: 186
@@ -257,14 +257,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cea67d57f26594080800000000000000
-      internalID: -9202729601714394388
+      spriteID: f07d36a9cb2b82750800000000000000
+      internalID: 6280466203481986831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_5
+      name: BackgroundText_5
       rect:
         serializedVersion: 2
         x: 345
@@ -279,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 59d0c360c0266bda0800000000000000
-      internalID: -5929444055602950763
+      spriteID: 1197ef117bb1b77a0800000000000000
+      internalID: -6378473974145320687
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_6
+      name: BackgroundText_6
       rect:
         serializedVersion: 2
         x: 17
@@ -301,14 +301,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6f06ac831ff37bff0800000000000000
-      internalID: -20477368027422474
+      spriteID: cb8207af038aa7250800000000000000
+      internalID: 5943247586582341820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_7
+      name: BackgroundText_7
       rect:
         serializedVersion: 2
         x: 289
@@ -323,14 +323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e7f61a19f433e6c0800000000000000
-      internalID: -4115387389997287451
+      spriteID: a7d31fd4842a5f180800000000000000
+      internalID: -9082174642093736582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_8
+      name: BackgroundText_8
       rect:
         serializedVersion: 2
         x: 450
@@ -345,14 +345,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e9f1284d9aeed74c0800000000000000
-      internalID: -4288008857004662882
+      spriteID: 7e9400fb55a3ee000800000000000000
+      internalID: 67055184408234471
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_9
+      name: BackgroundText_9
       rect:
         serializedVersion: 2
         x: 0
@@ -367,14 +367,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ba3466e582dce5f40800000000000000
-      internalID: 5719234150073254827
+      spriteID: 6067594e7fcd00e60800000000000000
+      internalID: 7926578301422106118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_10
+      name: BackgroundText_10
       rect:
         serializedVersion: 2
         x: 123
@@ -389,14 +389,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 079d6d5e48bb6b7c0800000000000000
-      internalID: -4055848234934412944
+      spriteID: e5fc5f3363a2a22d0800000000000000
+      internalID: -3302780964434489506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_11
+      name: BackgroundText_11
       rect:
         serializedVersion: 2
         x: 290
@@ -411,14 +411,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 19f1c1427c65cd9a0800000000000000
-      internalID: -6206990773119082607
+      spriteID: 09e1109e502fcf890800000000000000
+      internalID: -7422791978615497072
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_12
+      name: BackgroundText_12
       rect:
         serializedVersion: 2
         x: 395
@@ -433,14 +433,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2fd67f179baf727a0800000000000000
-      internalID: -6401872670895936014
+      spriteID: 6e457371cab5f4140800000000000000
+      internalID: 4706080930307462374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_13
+      name: BackgroundText_13
       rect:
         serializedVersion: 2
         x: 556
@@ -455,14 +455,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 64285cea31706c2c0800000000000000
-      internalID: -4411831003844869562
+      spriteID: 181e28f400622fa90800000000000000
+      internalID: -7281715864728837759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_14
+      name: BackgroundText_14
       rect:
         serializedVersion: 2
         x: 0
@@ -477,14 +477,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c2d253c03bb288b20800000000000000
-      internalID: 3136805188467502380
+      spriteID: 08192ac778875c910800000000000000
+      internalID: 1857022944667144576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_15
+      name: BackgroundText_15
       rect:
         serializedVersion: 2
         x: 228
@@ -499,14 +499,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6f60b744eae28af70800000000000000
-      internalID: 9198653564912338678
+      spriteID: c2dda0f11ef727ab0800000000000000
+      internalID: -5011802830444765908
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_16
+      name: BackgroundText_16
       rect:
         serializedVersion: 2
         x: 397
@@ -521,14 +521,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d2971e2b8128293e0800000000000000
-      internalID: -2048431837908207315
+      spriteID: e69ddd20bd58b46d0800000000000000
+      internalID: -3005161150647248530
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_17
+      name: BackgroundText_17
       rect:
         serializedVersion: 2
         x: 494
@@ -543,14 +543,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c7f07c90325e7f420800000000000000
-      internalID: 2663849643263594364
+      spriteID: a6a55a78837912370800000000000000
+      internalID: 8296078257642887786
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_18
+      name: BackgroundText_18
       rect:
         serializedVersion: 2
         x: 258
@@ -565,8 +565,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 53d8fbf4547e7b460800000000000000
-      internalID: 7257523609407556917
+      spriteID: 77430a38992014450800000000000000
+      internalID: 6071136631033705591
       vertices: []
       indices: 
       edges: []
@@ -585,25 +585,25 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_0: 6130743552821806404
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_1: -4223948526488729533
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_10: -4055848234934412944
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_11: -6206990773119082607
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_12: -6401872670895936014
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_13: -4411831003844869562
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_14: 3136805188467502380
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_15: 9198653564912338678
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_16: -2048431837908207315
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_17: 2663849643263594364
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_18: 7257523609407556917
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_2: -6931808054039970308
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_3: 1491764349171418559
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_4: -9202729601714394388
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_5: -5929444055602950763
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_6: -20477368027422474
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_7: -4115387389997287451
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_8: -4288008857004662882
-      Digital_CLUEDO_companion_app_watermark_pattern-removebg-preview_9: 5719234150073254827
+      BackgroundText_0: 8866527561017723687
+      BackgroundText_1: -7366026928149204057
+      BackgroundText_10: -3302780964434489506
+      BackgroundText_11: -7422791978615497072
+      BackgroundText_12: 4706080930307462374
+      BackgroundText_13: -7281715864728837759
+      BackgroundText_14: 1857022944667144576
+      BackgroundText_15: -5011802830444765908
+      BackgroundText_16: -3005161150647248530
+      BackgroundText_17: 8296078257642887786
+      BackgroundText_18: 6071136631033705591
+      BackgroundText_2: 8576938097633332464
+      BackgroundText_3: -7362181018548437512
+      BackgroundText_4: 6280466203481986831
+      BackgroundText_5: -6378473974145320687
+      BackgroundText_6: 5943247586582341820
+      BackgroundText_7: -9082174642093736582
+      BackgroundText_8: 67055184408234471
+      BackgroundText_9: 7926578301422106118
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
