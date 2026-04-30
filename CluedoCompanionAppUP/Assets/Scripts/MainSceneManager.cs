@@ -29,6 +29,11 @@ public class MainSceneManager : MonoBehaviour
         SceneManager.LoadScene("PlayerSheet");
     }
 
+    public void DiceRoller() 
+    {
+        SceneManager.LoadScene("DiceRoller");
+    }
+
     //public void *ENTERSCENE NAME HERE*()         *GEORGE - NO SPACES*
     //{
     //    SceneManager.LoadScene("*ENTERSCENE NAME HERE*");      *GEORGE - NO SPACES*
