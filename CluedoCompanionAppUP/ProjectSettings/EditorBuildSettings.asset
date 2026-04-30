@@ -5,18 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Game Setup.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/Main Scene.unity
     guid: 3d113724f9dcd724d85dcda2dcc50b49
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/App Tutorial.unity
     guid: b3264954ffe12264f991c5c5181b4661
   - enabled: 1
     path: Assets/Scenes/Cluedo Tutorial.unity
-    guid: abeb950b5dc875f4ca14448836844fb4
+    guid: be6c352a753747341bfeb514dce96cef
   - enabled: 1
     path: Assets/Scenes/PlayerSheet.unity
     guid: 07218914a6a839b40a1fa2a0eb230720
